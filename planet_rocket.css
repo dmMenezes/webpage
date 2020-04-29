@@ -59,3 +59,14 @@
         -webkit-transform:rotate(360deg);
     }
 }
+
+main{
+    color : #00003ff0;
+    background : grey;
+    display : inline-block;
+    height : 50px;
+}
+
+h2{
+    color : red;
+}
